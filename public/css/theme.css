@@ -79,7 +79,7 @@ Version: 1.0
 }
 .mainmenu ul ul.sub-menu {
     background: #fff;
-    width: 200px;
+    width: 231px;
     z-index: 9;
     text-align: center;
     padding: 21px 20px 16px;
@@ -631,7 +631,7 @@ Version: 1.0
     margin-top: 21px;
 }
 .footer .about_widgets p{
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     color: #8180e0;
     margin: 0;
