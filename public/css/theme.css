@@ -1749,6 +1749,9 @@ Version: 1.0
     padding-top: 75px;
     padding-bottom: 75px;
     margin-right: 55px;
+    display: inline-block;
+    text-align: right;
+    float: left;
 }
 .contactFrom input[type="text"],
 .contactFrom input[type="email"],
@@ -1764,6 +1767,9 @@ Version: 1.0
     border-radius: 3px;
     margin-bottom: 30px;
     padding: 0 20px;
+    display: inline-block;
+    text-align: left;
+    float: right;
 }
 .contactFrom textarea{
     height: 284px;
